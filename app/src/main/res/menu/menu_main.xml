@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+<item
+    android:id="@+id/menu_ekle"
+    android:title="add"
+    android:icon="@drawable/ic_baseline_add_box_24"
+    app:showAsAction="always"
+
+    />
+
+    <item
+        android:id="@+id/menu_guncelle"
+        android:title="guncelle"
+        android:icon="@drawable/ic_baseline_update_24"
+        app:showAsAction="always"
+
+        />
+    <item
+        android:id="@+id/menu_sil"
+        android:title="sil"
+        android:icon="@drawable/ic_baseline_delete_24"
+        app:showAsAction="always"
+
+        />
+
+
+
+</menu>
