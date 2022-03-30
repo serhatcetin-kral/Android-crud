@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\DELL\.android\avd\Pixel_2_XL_API_29_4.avd" />
+            <value value="C:\Users\DELL\.android\avd\firebaseCRUD.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2022-03-24T11:57:03.727514900Z" />
+    <timeTargetWasSelectedWithDropDown value="2022-03-28T12:10:33.333107600Z" />
   </component>
 </project>

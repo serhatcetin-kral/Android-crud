@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/listName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:hint="name"
+        android:inputType="textCapWords"
+        android:maxLines="1" />
+
+
+    <TextView
+        android:id="@+id/listEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:hint="Email"
+        android:inputType="textCapWords"
+        android:maxLines="1"
+
+        />
+
+</LinearLayout>
